@@ -1,0 +1,36 @@
+E:\test\Bedrijf\Business\bin\Debug\Business.dll
+E:\test\Bedrijf\Business\bin\Debug\Business.pdb
+E:\test\Bedrijf\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+E:\test\Bedrijf\Business\obj\Debug\Business.dll
+E:\test\Bedrijf\Business\obj\Debug\Business.pdb
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\Business\bin\Debug\Business.dll
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\Business\bin\Debug\Business.pdb
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\Business\obj\Debug\Business.dll
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\Business\obj\Debug\Business.pdb
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\Business\bin\Debug\Business.dll
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\Business\bin\Debug\Business.pdb
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\Business\obj\Debug\Business.dll
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\Business\obj\Debug\Business.pdb
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\Business\bin\Debug\Business.dll
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\Business\bin\Debug\Business.pdb
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\Business\obj\Debug\Business.dll
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\Business\obj\Debug\Business.pdb
+D:\GIP-webshop\Business\bin\Debug\Business.dll
+D:\GIP-webshop\Business\bin\Debug\Business.pdb
+D:\GIP-webshop\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\GIP-webshop\Business\obj\Debug\Business.dll
+D:\GIP-webshop\Business\obj\Debug\Business.pdb
+G:\GIP-webshop\Business\bin\Debug\Business.dll
+G:\GIP-webshop\Business\bin\Debug\Business.pdb
+G:\GIP-webshop\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+G:\GIP-webshop\Business\obj\Debug\Business.dll
+G:\GIP-webshop\Business\obj\Debug\Business.pdb
+F:\GIP-webshop\Business\bin\Debug\Business.dll
+F:\GIP-webshop\Business\bin\Debug\Business.pdb
+F:\GIP-webshop\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+F:\GIP-webshop\Business\obj\Debug\Business.dll
+F:\GIP-webshop\Business\obj\Debug\Business.pdb

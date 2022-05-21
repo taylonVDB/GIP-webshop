@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68586705-5973-41FC-B1F8-B1ED05922D3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentation</RootNamespace>
+    <AssemblyName>Presentation</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AanmeldenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AanmeldenForm.Designer.cs">
+      <DependentUpon>AanmeldenForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BedanktForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BedanktForm.Designer.cs">
+      <DependentUpon>BedanktForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="instellingenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="instellingenForm.Designer.cs">
+      <DependentUpon>instellingenForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KlantInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KlantInfoForm.Designer.cs">
+      <DependentUpon>KlantInfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NietAangemeldForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NietAangemeldForm.Designer.cs">
+      <DependentUpon>NietAangemeldForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductForm.Designer.cs">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductOverzicht.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductOverzicht.Designer.cs">
+      <DependentUpon>ProductOverzicht.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StartschermFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartschermFrom.Designer.cs">
+      <DependentUpon>StartschermFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Werknemersmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Werknemersmenu.Designer.cs">
+      <DependentUpon>Werknemersmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Winkelkar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Winkelkar.Designer.cs">
+      <DependentUpon>Winkelkar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AanmeldenForm.resx">
+      <DependentUpon>AanmeldenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BedanktForm.resx">
+      <DependentUpon>BedanktForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="instellingenForm.resx">
+      <DependentUpon>instellingenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KlantInfoForm.resx">
+      <DependentUpon>KlantInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NietAangemeldForm.resx">
+      <DependentUpon>NietAangemeldForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductForm.resx">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductOverzicht.resx">
+      <DependentUpon>ProductOverzicht.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StartschermFrom.resx">
+      <DependentUpon>StartschermFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Werknemersmenu.resx">
+      <DependentUpon>Werknemersmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Winkelkar.resx">
+      <DependentUpon>Winkelkar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{7692fd33-61e6-4294-80db-326027ec1897}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{291cff77-a5dc-46a0-af45-5f8070b02c9e}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

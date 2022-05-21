@@ -1,0 +1,54 @@
+E:\test\Bedrijf\DataAccess\bin\Debug\DataAccess.dll
+E:\test\Bedrijf\DataAccess\bin\Debug\DataAccess.pdb
+E:\test\Bedrijf\DataAccess\bin\Debug\Business.dll
+E:\test\Bedrijf\DataAccess\bin\Debug\Business.pdb
+E:\test\Bedrijf\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\test\Bedrijf\DataAccess\obj\Debug\DataAccess.dll
+E:\test\Bedrijf\DataAccess\obj\Debug\DataAccess.pdb
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\DataAccess\bin\Debug\DataAccess.dll
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\DataAccess\bin\Debug\DataAccess.pdb
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\DataAccess\bin\Debug\Business.dll
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\DataAccess\bin\Debug\Business.pdb
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\DataAccess\obj\Debug\DataAccess.dll
+D:\OLV Hemelvaart\6BI\3b-cursus GIP3\Bedrijf\DataAccess\obj\Debug\DataAccess.pdb
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\DataAccess\bin\Debug\DataAccess.dll
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\DataAccess\bin\Debug\DataAccess.pdb
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\DataAccess\bin\Debug\Business.dll
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\DataAccess\bin\Debug\Business.pdb
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\DataAccess\obj\Debug\DataAccess.dll
+D:\OLV Hemelvaart\6BI\4a-C# lagenmodel - AANGEPASTE VERSIE\Hoofdstuk 9 - toepassing\Bedrijf\DataAccess\obj\Debug\DataAccess.pdb
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\bin\Debug\DataAccess.dll
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\bin\Debug\DataAccess.pdb
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\bin\Debug\Business.dll
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\bin\Debug\Business.pdb
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\obj\Debug\DataAccess.dll
+C:\6BI\4_C# lagenmodel\Opgavenbestanden\Hfdst9-Bedrijf\DataAccess\obj\Debug\DataAccess.pdb
+D:\GIP-webshop\DataAccess\bin\Debug\DataAccess.dll
+D:\GIP-webshop\DataAccess\bin\Debug\DataAccess.pdb
+D:\GIP-webshop\DataAccess\bin\Debug\Business.dll
+D:\GIP-webshop\DataAccess\bin\Debug\Business.pdb
+D:\GIP-webshop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\GIP-webshop\DataAccess\obj\Debug\DataAccess.dll
+D:\GIP-webshop\DataAccess\obj\Debug\DataAccess.pdb
+G:\GIP-webshop\DataAccess\bin\Debug\DataAccess.dll
+G:\GIP-webshop\DataAccess\bin\Debug\DataAccess.pdb
+G:\GIP-webshop\DataAccess\bin\Debug\Business.dll
+G:\GIP-webshop\DataAccess\bin\Debug\Business.pdb
+G:\GIP-webshop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+G:\GIP-webshop\DataAccess\obj\Debug\DataAccess.dll
+G:\GIP-webshop\DataAccess\obj\Debug\DataAccess.pdb
+G:\GIP-webshop\DataAccess\bin\Debug\bavaria.mdb
+D:\GIP-webshop\DataAccess\bin\Debug\bavaria.mdb
+F:\GIP-webshop\DataAccess\bin\Debug\bavaria.mdb
+F:\GIP-webshop\DataAccess\bin\Debug\DataAccess.dll
+F:\GIP-webshop\DataAccess\bin\Debug\DataAccess.pdb
+F:\GIP-webshop\DataAccess\bin\Debug\Business.dll
+F:\GIP-webshop\DataAccess\bin\Debug\Business.pdb
+F:\GIP-webshop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\GIP-webshop\DataAccess\obj\Debug\DataAccess.dll
+F:\GIP-webshop\DataAccess\obj\Debug\DataAccess.pdb
